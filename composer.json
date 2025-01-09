@@ -1,0 +1,13 @@
+{
+    "name": "mformono/behat-pack",
+    "type": "symfony-pack",
+    "license": "MIT",
+    "description": "A pack for behat with extensions",
+    "require": {
+        "friends-of-behat/symfony-extension": "^2.6",
+        "friends-of-behat/variadic-extension": "*",
+        "friends-of-behat/mink-extension": "*",
+	"friends-of-behat/mink-debug-extension": "*",
+	"robertfausk/behat-panther-extension": "*"
+    }
+}
